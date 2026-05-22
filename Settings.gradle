@@ -1,0 +1,2 @@
+rootProject.name = "Offroad-gsp"
+include ':app'
